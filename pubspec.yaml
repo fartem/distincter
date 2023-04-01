@@ -1,5 +1,6 @@
 name: distincter
-description: distincter
+description: A tool that can check lists in Markdown files and find duplicates.
+homepage: https://github.com/fartem/distincter
 version: 1.0.0
 
 environment:
