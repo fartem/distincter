@@ -5,7 +5,7 @@ A tool that can check lists in Markdown files and find duplicates. This is previ
 ## How to use
 
 ```shell
-$ dart ./bin/distincter.dart ../path_to_file
+$ dart ./bin/distincter.dart ../path_to_directory_with_files
 ```
 
 ## Contributors
